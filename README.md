@@ -2,6 +2,8 @@
 
 The goal of this project was to analyze the GDP of metropolitan areas by population. It aimed to determine which areas had the top 15 GDPs, and if there was a correlation between population of a metropolitan area and the official estimated GDP.
 
+The dataframe was constructed from data scraped from this wikipedia page :  https://en.wikipedia.org/wiki/List_of_cities_by_GDP 
+
 Beautiful Soup was used to scrape the webpage I used, which has documentation that can be found here : https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 Attributes fro this data set are:
