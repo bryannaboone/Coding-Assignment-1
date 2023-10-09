@@ -21,3 +21,6 @@ The attribute Metropolitan population is a variable of datatype float which cont
 The attribute Official GDP per capita is a variable of datatype float which contains numeric data of the official estimated GDP adjusted for population of the metropolitan area.
 
 Potential issues with this dataset is that it came from Wikipedia, so has not been reviewed or collected by officials. It also had some missing data, which was removed for analysis but may have otherwise affected the data if it had been present. 
+
+
+Th analysis shows relationships between aspects of  metropolitan areas and estimated GDP. This was done with the goal of discerning relationships between population and GDP and determining which metropolitan areas had the highest GDPs, and make comparisons between them. 
