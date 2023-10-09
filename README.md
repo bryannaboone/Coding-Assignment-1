@@ -14,7 +14,7 @@ Country/region area contains datatype string, which is a categorical descriptor 
 
 The attribute Official est. GDPup to date (billion US$) is a variable of datatype float which contains numeric data of the official estimated GDP of the metropolitan area in question.
 
-The attribute Metropolitan population is a variable of datatype float which contains numeric data of the popultion of each metropolitan area. 
+The attribute Metropolitan population is a variable of datatype float which contains numeric data of the population of each metropolitan area. 
 
 The attribute Official GDP per capita is a variable of datatype float which contains numeric data of the official estimated GDP adjusted for population of the metropolitan area.
 
